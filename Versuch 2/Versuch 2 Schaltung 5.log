@@ -1,0 +1,21 @@
+Circuit: * C:\Users\ahuss\Desktop\Eg Praktkikum 2\Versuch 2 Schaltung 5.asc
+
+.OP point found by inspection.
+
+Date: Thu Jan 21 20:37:58 2021
+Total elapsed time: 0.495 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20064
+traniter = 20064
+tranpoints = 10033
+accept = 10030
+rejected = 3
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 86 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: 163 bytes object code size  0.0/0.0/[0.0]
+
